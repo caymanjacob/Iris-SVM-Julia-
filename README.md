@@ -1,6 +1,8 @@
 # Iris-SVM-Julia-
 Defuse Lab's iris SVM that is to be trained to predict drug reactions in individuals based off of their genes. To use the UI, it has to be ran in VSCODE.
 
+View the website behind the project at www.defuselabs.com
+
 Instructions:
 1. Download Julia for your platform from:  https://julialang.org/downloads/
 
